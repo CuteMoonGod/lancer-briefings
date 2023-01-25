@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
-        "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
+        "planet": "N/A",
+        "year": "5023u",
+        "system": "The Horus Sector",
+        "gate": "N/A",
         "ring": "Atlas-Line",
         "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerSubtitle": "Far-World Team",
+        "subheaderTitle": "Planetary Explorers",
+        "subheaderSubtitle": "November-Uniform-Tango-Sierra",
       },
       "options":{
         "eventsMarkdownPerMission": true
