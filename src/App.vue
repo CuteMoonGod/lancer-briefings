@@ -147,10 +147,10 @@ export default {
         "system": "The Horus Sector",
         "gate": "N/A",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
+        "headerTitle": "TBD",
         "headerSubtitle": "Far-World Team",
         "subheaderTitle": "Planetary Explorers",
-        "subheaderSubtitle": "November-Uniform-Tango-Sierra",
+        "subheaderSubtitle": "Papa-Oscar-Golf",
       },
       "options":{
         "eventsMarkdownPerMission": true
