@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "000",
-          "name": "New Beginnings",
+          "name": "Arrival",
           "status": "start"
         },
       ],
