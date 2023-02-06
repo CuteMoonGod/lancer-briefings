@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/55d0e9f5-8e0d-422e-a3d0-38a79ecf2413/deploy-status)](https://app.netlify.com/sites/lancer-briefings/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/80716b84-56f3-4a62-9f03-c93a58245ae3/deploy-status)](https://app.netlify.com/sites/uad-briefing/deploys)
 # Lancer Briefings
 
 **[Live Demo](https://lancer.kuenaimaku.com/)** (No Room for a Wallflower Spoilers)
